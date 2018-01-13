@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Made with Thimble</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <center><h1>Pollution</h1></center>
+    
+    
+
+    <center><img src= "https://upload.wikimedia.org/wikipedia/commons/0/00/Jakarta_slumlife71.JPG" 
+                 alt="pollution pic" width="1000" height="620"></center>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <h2 style= "font-size:15px;">
+      "Sooner or later, we will have to recognise that the Earth has rights, too, to live without pollution. What mankind must know is that human beings cannot live without Mother Earth, but the planet can live without humans."
+  
+        </h2>
+    <object type="application/x-shockwave-flash" data="/assets/golf.swf" width="50" height="160">
+      <param name="movie" value="/assets/golf.swf">
+      <param name="wmode" value="transparent">
+      <p style= "font-size:13px;">~ Evo Morales</p>
+    </object>
+    
+    
+    <main>
+      <h1>What is Pollution?</h1>
+      <p>Pollution is the presence in or introduction into the environment of a substance which has harmful or poisonous effects.</p>
+      
+    </main>
+    
+    
+    <h3>How are we harming the environment?</h3>
+    <p><strong>Oil Drilling-</strong> Oil drilling is the process by which tubing is bored into the earths's surface, a pump is connnected to the tube and petroleum is extracted from underground. Our dependence of fossil fuels is a global addiction that greatly harms our world. Oil spills and offshore drilling poison marine life, the combustion of fossil fuels add to the increase atmospheric carbon dioxide.</p>
+    <p><strong>Agricultual Activities-</strong> Yes even farming is major cause of pollution, they are mainly responsible for contaminating water and soil. This is caused by the increase use of pesticides following an intensive production period. Almost all pesticides are chemicals that are designed to prevent diseases and threaten animals away from the crop. Chemicals that can harm animals are very likely to harm us and any living thing.Furthermore as our population increases so does the need for agricultual production which will demand more space. This will result in the destruction of animal habitats which could lead to an extinction to some. </p>
+    <p><Strong>Deforestaion-</Strong> Deforestation is the removal of a forest or a stand of trees where the land is used for non forest use.</p>
+    
+    
+    
+    
+    <form action="/signup" method="post">
+      <p>
+        <label>Title</label><br>
+        <label>
+          <input type="radio" name="title" value="mr">
+          Mr
+        </label>
+        <label>
+          <input type="radio" name="title" value="mrs">
+          Mrs
+        </label>
+        <label>
+          <input type="radio" name="title" value="miss">
+          Miss
+        </label>
+      </p>
+      <p>
+        <label>First name</label><br>
+        <input type="text" name="first_name">
+      </p>
+      <p>
+        <label>Last name</label><br>
+        <input type="text" name="last_name">
+      </p>
+      <p>
+        <label>Email</label><br>
+        <input type="email" name="email" required>
+      </p>
+      <p>
+        <label>Phone number</label><br>
+        <input type="tel" name="phone">
+      </p>
+      <p>
+        <label>Password</label><br>
+        <input type="password" name="password">
+      </p>
+      <p>
+        <label>Country</label><br>
+        <select>
+          <option>China</option>
+          <option>India</option>
+          <option>United States</option>
+          <option>Indonesia</option>
+          <option>Brazil</option>
+        </select>
+      </p>
+      <p>
+        <label>
+          <input type="checkbox" value="terms">
+          I agree to the <a href="/terms">terms and conditions</a>
+        </label>
+      </p>
+      <p>
+        <button>Sign up</button>
+        <button type="reset">Reset form</button>
+      </p>
+    </form>
+    
+  </body>
+</html>
+
+img id="pollution" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Trafficjamdelhi.jpg" alt="W3Schools.com" style="width:1070px;height:600px;"
